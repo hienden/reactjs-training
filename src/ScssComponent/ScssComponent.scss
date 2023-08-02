@@ -1,0 +1,13 @@
+$font-color: red;
+
+.scss-style {
+  color: cadetblue;
+  width: 150px;
+  height: 150px;
+  background-color: $font-color;
+  margin-top: 50px;
+
+  p {
+    color: burlywood;
+  }
+}
